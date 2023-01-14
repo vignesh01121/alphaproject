@@ -1,0 +1,86 @@
+body{
+    font-family:'Source Sans Pro',sans-serif ;
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+}
+/* header section starts here */
+#HeaderSection{
+    color: white;
+    width: 100%;
+
+}
+#Logo{
+    width: 30%;
+    display: inline-block;
+}
+#Logo h1{
+    font-size: 16px;
+    margin: 15px 0px 0px 12px;
+}
+#logo h1 span{
+    font-weight: 100;
+}
+
+/* Bodysection starts here */
+
+#BodySection{
+    color: white;
+    text-align: center;
+}
+#BodySection h1{
+    font-size: 58px;
+    font-weight: 100;
+    padding-top: 47px;
+}
+#bodySection p{
+    font-size: 21px;
+    margin-top: -20px;
+    font-weight: 400;
+}
+#bodySection ul{
+    display: inline-block;  
+}
+
+#BodySection ul li{
+    display: inline-block;
+    font-size: 20px;
+    border: 2px solid lightgray;
+    padding: 10px 50px;
+    border-radius: 6px;
+}
+#sign{
+color: gray;
+background-color: white;
+border: 2px solid white!important ;
+margin-right: 20px;
+}
+/* 
+body section ends here */
+/* Descriptive section starts here  */
+#DescriptionSection {
+    color: #717171;
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+#DescriptionSection h1{
+    font-size: 34px;
+    font-weight: 900;
+    padding-top: 70px;
+
+}
+#DescriptionSection p{
+    font-size: 20px;
+    border-top: 1px solid #8b8b8b;
+    display: inline-block;
+    padding-top: 40px;
+
+}
+#DescriptionSection img{
+    width: 100%;
+    margin-top: 45px;
+    border-radius: 5px;
+}
